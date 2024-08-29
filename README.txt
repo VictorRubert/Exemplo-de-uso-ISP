@@ -1,0 +1,1 @@
+Este é um exemplo de uso do Protocolo de Segregação de Interfaces (ISP)
